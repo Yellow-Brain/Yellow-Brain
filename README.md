@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yellow-Brain
+- 👀 I’m interested in programming games!
+- 🌱 I’m currently learning python!
+- 📫 You can find me on scratch.mit.edu at the same username!
